@@ -9,7 +9,7 @@ import java.util.Date;
  * @version 1.0
  * @date 2019/8/15 15:53
  */
-public class DateUtil {
+public class DateUtils {
 
     private static final String DEFAULT_PATTERN = "yyyy-MM-dd HH:mm:ss";
     /**
@@ -91,7 +91,7 @@ public class DateUtil {
     }
 
 
-    private DateUtil(){}
+    private DateUtils(){}
 
 
 }
