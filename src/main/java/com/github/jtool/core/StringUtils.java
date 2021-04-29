@@ -28,7 +28,7 @@ public abstract class StringUtils {
      * 是否是空字符串
      *
      * @param target : 目标串
-     * @return true represent empty
+     * @return true represent blank
      */
     public static boolean isBlank(String target) {
         return target == null || "".equals(target.trim());
